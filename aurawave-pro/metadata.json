@@ -1,0 +1,6 @@
+{
+  "name": "AuraWave Pro™",
+  "description": "The Quantum Cellular Bio-Resonance & Regeneration Healing Machine. Advanced multi-harmonic spark gap recovery technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
